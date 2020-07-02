@@ -1,0 +1,10 @@
+# Zettelkasten
+#zettelkasten
+
+
+[https://habr.com/ru/post/508672/](https://habr.com/ru/post/508672/)
+Система ведения заметок Zettelkasten лучшая на свете.
+
+## Ссылки
+- [[202007020841-Принципы-Zettelkasten.txt]] 202007020841-Принципы-Zettelkasten
+- [[202007020855-Основные темы.txt]] 202007020855-Основные темы
